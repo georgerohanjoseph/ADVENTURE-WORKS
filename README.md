@@ -4,6 +4,9 @@
 
 This project focuses on analyzing and visualizing the Adventure Works dataset using Power BI. The dataset contains sales, customer, and product information from an e-commerce and retail perspective. The goal of this project is to uncover key business insights and trends that can help improve decision-making.
 
+![My Project Screenshot](https://github.com/georgerohanjoseph/ADVENTURE-WORKS/blob/main/Adventure_Works_SS.png)
+
+
 # Dataset Details
 
 The dataset consists of multiple tables, including:
